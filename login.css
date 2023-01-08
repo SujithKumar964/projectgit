@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Rancho&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    background-color: rgb(37, 36, 36);
+}
+form{
+    position: absolute;
+}
