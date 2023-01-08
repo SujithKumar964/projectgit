@@ -4,6 +4,8 @@ body{
     font-weight: 500;
     background-color: rgb(37, 36, 36);
 }
-form{
-    position: absolute;
+#form{
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
 }
